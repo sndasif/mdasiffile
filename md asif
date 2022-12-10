@@ -1,3 +1,18 @@
-hey man just do one thing  
- that  u just  copy and paste the
- code which i have send to you in your  git hub repo  .
+no do this now  hurry up!
+
+
+<script>
+ let value=document.GetElementById("contatiner").innerHTML="hello rubina asif";
+ let num=0
+ 
+ for(let i=1; i<=10; i++)
+ {
+ 
+ consloe.log("num="+i);
+ 
+ 
+ 
+ }
+
+
+</script>
