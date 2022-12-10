@@ -1,20 +1,18 @@
-<html>
-<head>
-<title></titel>
-<link rel="" href="">
-</head>
-<body>
+no do this now  hurry up!
 
-<header>
- <span></span>
-</header>
 
-<main>
-      <h1>hello every this is  a demo for the  making of the  pull repo</h1>
-<\main>
+<script>
+ let value=document.GetElementById("contatiner").innerHTML="hello rubina asif";
+ let num=0
+ 
+ for(let i=1; i<=10; i++)
+ {
+ 
+ consloe.log("num="+i);
+ 
+ 
+ 
+ }
 
-<section>
 
-</section>
-
-</body>
+</script>
